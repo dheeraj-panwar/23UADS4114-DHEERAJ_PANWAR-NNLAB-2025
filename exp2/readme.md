@@ -80,4 +80,8 @@ final_predictions, actual_y = train_perceptron(final_X, final_y, "Final Perceptr
 - Fun4 Accuracy: **100.00%** | Predictions: `[1 0 0 0]`
 - Final Perceptron Accuracy: **100.00%** | Predictions: `[0 1 1 0]`
 
-
+## my comment  
+ **Custom Perceptron Class** – Implements Training, Prediction, and Evaluation  
+ **Binary Function Training** – Trains perceptrons on `fun1_y`, `fun2_y`, etc.  
+ **Final Perceptron** – Combines previous predictions for final learning  
+ **Accuracy Calculation** – Evaluates model performance  
